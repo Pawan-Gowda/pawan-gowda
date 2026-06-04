@@ -33,7 +33,7 @@
 |--------|-------------|-------|
 | [Splunk SOC Home Lab](https://github.com/Pawan-Gowda/splunk-soc-home-lab) | SIEM lab detecting brute force attacks in real time | Splunk, Linux, SSH |
 | [Phishing Email Analyzer](https://github.com/Pawan-Gowda/phishing-email-analyzer) | Analyzes emails for phishing using VirusTotal API | Python, VirusTotal API |
-| [Log Monitoring Tool](https://github.com/Pawan-Gowda/log-monitoring-tool) | Python tool detecting suspicious Linux log activity | Python, Linux |
+| [Log Monitoring Tool](https://github.com/Pawan-Gowda/linux-log-monitor) | Python tool detecting suspicious Linux log activity | Python, Linux |
 
 ---
 
