@@ -42,14 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawan-Gowda&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Gowda&layout=compact&theme=radical)
-
----
-
 ### 🏆 Certifications
 - Fortinet NSE 1, 2 & 3 – Network Security Associate
 - Cybersecurity Introduction – Cisco Networking Academy
