@@ -9,11 +9,11 @@
 
 ### 🔐 About Me
 
-- 🎓 BCA Graduate from New Horizon College, Bangalore
-- 🔭 Currently building security tools and home labs
-- 🌱 Learning SOC operations, threat detection and SIEM
-- 🎯 Seeking entry-level SOC Analyst / Cybersecurity roles
-- 🎮 Gamer | 🎌 Anime | Music 
+- BCA Graduate from New Horizon College, Bangalore
+- Currently building security tools and home labs
+- Learning SOC operations, threat detection and SIEM
+- Seeking entry-level SOC Analyst / Cybersecurity roles
+- Gamer | Anime | Music |
 
 ---
 
