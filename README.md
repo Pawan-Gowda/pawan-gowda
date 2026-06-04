@@ -24,6 +24,9 @@
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
@@ -34,6 +37,8 @@
 | [Splunk SOC Home Lab](https://github.com/Pawan-Gowda/splunk-soc-home-lab) | SIEM lab detecting brute force attacks in real time | Splunk, Linux, SSH |
 | [Phishing Email Analyzer](https://github.com/Pawan-Gowda/phishing-email-analyzer) | Analyzes emails for phishing using VirusTotal API | Python, VirusTotal API |
 | [Log Monitoring Tool](https://github.com/Pawan-Gowda/linux-log-monitor) | Python tool detecting suspicious Linux log activity | Python, Linux |
+| [Virtual Assistant "Alice"](https://github.com/Pawan-Gowda/virtual-assistant-alice) | Voice-enabled virtual assistant with API integration and automation | Python, APIs |
+| [Store Inventory System](https://github.com/Pawan-Gowda/store-inventory-system) | Inventory and sales management system | SQL, SQLite, PHP |
 
 ---
 
