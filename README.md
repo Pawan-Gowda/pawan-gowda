@@ -13,7 +13,7 @@
 - 🔭 Currently building security tools and home labs
 - 🌱 Learning SOC operations, threat detection and SIEM
 - 🎯 Seeking entry-level SOC Analyst / Cybersecurity roles
-- 🎮 Gamer | 🎌 Anime fan (1000+ watched)
+- 🎮 Gamer | 🎌 Anime fan 
 
 ---
 
