@@ -31,17 +31,17 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Splunk SOC Home Lab](https://github.com/pawan-gowda/splunk-soc-home-lab) | SIEM lab detecting brute force attacks in real time | Splunk, Linux, SSH |
-| [Phishing Email Analyzer](https://github.com/pawan-gowda/phishing-email-analyzer) | Analyzes emails for phishing using VirusTotal API | Python, VirusTotal API |
-| [Log Monitoring Tool](https://github.com/pawan-gowda/log-monitoring-tool) | Python tool detecting suspicious Linux log activity | Python, Linux |
+| [Splunk SOC Home Lab](https://github.com/Pawan-Gowda/splunk-soc-home-lab) | SIEM lab detecting brute force attacks in real time | Splunk, Linux, SSH |
+| [Phishing Email Analyzer](https://github.com/Pawan-Gowda/phishing-email-analyzer) | Analyzes emails for phishing using VirusTotal API | Python, VirusTotal API |
+| [Log Monitoring Tool](https://github.com/Pawan-Gowda/log-monitoring-tool) | Python tool detecting suspicious Linux log activity | Python, Linux |
 
 ---
 
 ### 📊 GitHub Stats
 
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawan-gowda&show_icons=true&theme=radical)
+![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawan-Gowda&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-gowda&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Gowda&layout=compact&theme=radical)
 
 ---
 
