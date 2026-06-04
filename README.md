@@ -27,7 +27,7 @@
 
 ---
 
-### 🔒 Security Projects
+### 🔒 My Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
