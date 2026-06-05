@@ -53,7 +53,7 @@
 ---
 
 ### 🏆 Certifications
-- Fortinet NSE 1, 2 & 3 – Network Security Associate
+- Fortinet Certified Associate in Cybersecurity (FCA)
 - Cybersecurity Introduction – Cisco Networking Academy
 - Cybersecurity & Python Fundamentals – Hope Foundation
 - Cloud Computing Fundamentals – IBM Cloud
