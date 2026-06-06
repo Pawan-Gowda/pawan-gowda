@@ -49,6 +49,7 @@
 | [Log Monitoring Tool](https://github.com/Pawan-Gowda/linux-log-monitor) | Python tool detecting suspicious Linux log activity | Python, Linux |
 | [Virtual Assistant "Alice"](https://github.com/Pawan-Gowda/virtual-assistant-alice) | Voice-enabled virtual assistant with API integration and automation | Python, APIs |
 | [Store Inventory System](https://github.com/Pawan-Gowda/store-inventory-system) | Inventory and sales management system | SQL, SQLite, PHP |
+| [Vulnerability Scanner](https://github.com/Pawan-Gowda/vulnerability-scanner) | Python tool scanning ports, detecting services and looking up CVEs via NVD database | Python, Nmap, NVD API |
 
 ---
 
