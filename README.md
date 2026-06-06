@@ -1,4 +1,4 @@
-# Hey, I'm Pawan Gowda 👋
+# Hey, I'm Pawan 👋
 
 ### Cybersecurity Enthusiast | Python Developer | SOC Aspirant
 
