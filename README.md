@@ -54,7 +54,8 @@
 ---
 
 ### 🏆 Certifications
-- Fortinet Certified Associate in Cybersecurity (FCA)
+- Google Cybersecurity Professional Certificate - Google
+- Fortinet Certified Associate in Cybersecurity (FCA) - Fortinet
 - Cybersecurity Introduction – Cisco Networking Academy
 - Cybersecurity & Python Fundamentals – Hope Foundation
 - Cloud Computing Fundamentals – IBM Cloud
