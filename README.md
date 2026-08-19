@@ -13,7 +13,7 @@
 - Currently building security tools and home labs
 - Passionate about infrastructure security, data analysis, and process automation
 - **Seeking entry-level roles:** Junior Data Analyst / L1 Service Desk / SOC Analyst.
-- Gamer | Anime | Music |
+- Gamer | Anime | Music
 
 ---
 
