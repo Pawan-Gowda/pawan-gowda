@@ -12,7 +12,7 @@
 - BCA Graduate from New Horizon College, Bangalore
 - Currently building security tools and home labs
 - Passionate about infrastructure security, data analysis, and process automation
-- **Seeking entry-level roles:** Junior Data Analyst / L1 Service Desk / SOC Analyst.
+- **Seeking entry-level roles:** SOC Analyst / L1 Service Desk / Cybersecurity Analyst / IT/Technical Support
 - Gamer | Anime | Music
 
 ---
